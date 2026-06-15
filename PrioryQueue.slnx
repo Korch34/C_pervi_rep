@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PrioryQueue/PrioryQueue.vcxproj" Id="dfb85de7-54d0-4302-8e50-32012e2fe65f" />
+</Solution>
