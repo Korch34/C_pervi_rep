@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Приоритетная очередь через бинарный поиск/Приоритетная очередь через бинарный поиск.vcxproj" Id="a8cf83d4-2417-4d5a-9af2-86e74a51430f" />
+</Solution>
